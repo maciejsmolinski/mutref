@@ -1,0 +1,16 @@
+{
+  "name": "mutref",
+  "version": "0.0.1",
+  "description": "Easy to track and debug mutable references in JavaScript",
+  "main": "index.js",
+  "repository": "git@github.com:maciejsmolinski/mutref.git",
+  "author": "Maciej Smolinski <contact@maciejsmolinski.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
