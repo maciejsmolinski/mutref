@@ -2,6 +2,10 @@
 
 Easy to debug and track mutable references in JavaScript
 
+```sh
+npm install --save mutref
+```
+
 ```js
 const MutRef = require('mutref');
 
