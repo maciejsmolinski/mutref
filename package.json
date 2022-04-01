@@ -7,7 +7,7 @@
   "author": "Maciej Smolinski <contact@maciejsmolinski.com>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.7.1"
+    "jest": "^27.5.1"
   },
   "scripts": {
     "test": "jest",
